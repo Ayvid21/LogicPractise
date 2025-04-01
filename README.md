@@ -1,2 +1,2 @@
-# LogicPractise
+# LogicPractiseJS
 LogicPractise
